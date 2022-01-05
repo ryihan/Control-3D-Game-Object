@@ -10,6 +10,11 @@ public class MainCameraController : MonoBehaviour
          
       
       
+       
+       
+
+    }
+    public void Scope (Transform  target,Vector3  railDirection){
     }
 
     // Update is called once per frame
