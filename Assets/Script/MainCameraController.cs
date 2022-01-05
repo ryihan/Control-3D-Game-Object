@@ -14,7 +14,7 @@ public class MainCameraController : MonoBehaviour
         Vector3 heading = target.position - transform.position;
         Vector3 force = Vector3.Project(heading, railDirection);
         // GetComponent<Rigidbody>().AddForce(force);
-       // Debug.Log(target.position);
+       // Debug.Log(target.position);# Visual Studio cache directory
     }
     // Update is called once per frame
     void Update()
