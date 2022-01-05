@@ -136,3 +136,19 @@ Received Import Request.
 Start importing Assets/Scenes using Guid(b79c4b7a3c0124541815a4e18f6b26bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a76539f40af0ad5abbf6199ca56ed8d5') in 0.018970 seconds 
   Import took 0.024446 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 458.682285 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42d402b061de3733987d63b9cc3b64de') in 0.005684 seconds 
+  Import took 0.012829 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.633138 seconds.
+  path: Assets/NewBehaviourScript.cs
+  artifactKey: Guid(442e89ddf1138de4c8e367fabc0811de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewBehaviourScript.cs using Guid(442e89ddf1138de4c8e367fabc0811de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4bc47a9748ee1277dd5fc0227c71a409') in 0.054771 seconds 
+  Import took 0.057727 seconds .
+
