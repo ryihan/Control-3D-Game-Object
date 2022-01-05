@@ -152,3 +152,16 @@ Received Import Request.
 Start importing Assets/NewBehaviourScript.cs using Guid(442e89ddf1138de4c8e367fabc0811de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4bc47a9748ee1277dd5fc0227c71a409') in 0.054771 seconds 
   Import took 0.057727 seconds .
 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003661 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.30 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.848 seconds
+Domain Reload Profiling:
+	ReloadAssembly (849ms)
+		BeginReloadAssembly (115ms)
