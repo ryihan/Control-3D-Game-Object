@@ -15,6 +15,9 @@ public class MainCameraController : MonoBehaviour
 
     }
     public void Scope (Transform  target,Vector3  railDirection){
+        /*
+        * object position Terget 
+        */
     }
 
     // Update is called once per frame
