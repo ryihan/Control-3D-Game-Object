@@ -28,6 +28,9 @@ public class MainCameraController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        Transform  target;
+    float target = target.position.x;
+        Debug.Log(target);
+       
     }
 }
