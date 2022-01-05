@@ -795,6 +795,7 @@ Domain Reload Profiling:
 				ProcessInitializeOnLoadAttributes (293ms)
 				ProcessInitializeOnLoadMethodAttributes (6ms)
 				BeforeProcessingInitializeOnLoad (65ms)
+	ReloadAssembly (911ms)
 Preloading 0 native plugins for Editor in 0.00 ms.
 			BackupInstance (0ms)
 Preloading 0 native plugins for Editor in 0.00 ms.
